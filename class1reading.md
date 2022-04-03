@@ -85,3 +85,8 @@
   
 ### HTML
   - Sometimes, markdown applications allow the use of HTML tags. Check your markdown application's documentation!
+  
+  ## Markdown Styling
+  
+  Many features of Markdown styling are similar to the commands in basic syntax.
+  Check [Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for more styling and editing features! 
