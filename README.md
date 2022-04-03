@@ -2,6 +2,8 @@
 
 ## About Me
 My name is Mandy Mason, and I am completely new to coding! I am an Elementary School Music Teacher who is looking for a career change. I was born in Nashville,TN and lived around the Middle Tennessee area for most of my life.  My husband Daniel, our cat Gizmo, and I moved to Port Saint Lucie, FL in December of 2018. We enjoy learning new things, playing games, and spending time with our friends. 
+(![Mandy & Daniel](https://user-images.githubusercontent.com/102629678/161444306-ed0b151d-feab-4c82-ba2e-3f9924b7a9e7.jpg)
+
 
 ### What is a Growth Mindset?
 
