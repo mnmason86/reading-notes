@@ -72,6 +72,12 @@
 - Second segment: [label]: <URL> "Optional Title"
 - *For compatibility, use '%20' in place of any spaces in the URL text*
   
+### Images
+  - To add an image, use an exclamation mark in parentheses, followed by alt text in brackets, then the image location in parentheses
+  - Optionally, add text in quotation marks for a title.
+  - To add a link to the image, enclose the image markdown in brackets, then add the link in parentheses
+  - [![Alt text](image location"Optional title")](URL for image site)
   
 ### Escaping Characters
+  -
 ### HTML
