@@ -70,7 +70,8 @@
 - This style of link, makes URLs easier to read in markdown. The first segment (which is easily readable), makes *reference* to the second segment, the longer URL, which can be embedded anywhere in the markdown.
 - First segment: [URL Reference][label]
 - Second segment: [label]: <URL> "Optional Title"
+- *For compatibility, use '%20' in place of any spaces in the URL text*
   
-### Images
+  
 ### Escaping Characters
 ### HTML
