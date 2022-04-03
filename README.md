@@ -2,6 +2,9 @@
 
 ## About Me
 My name is Mandy Mason, and I am completely new to coding! I am an Elementary School Music Teacher who is looking for a career change. I was born in Nashville,TN and lived around the Middle Tennessee area for most of my life.  My husband Daniel, our cat Gizmo, and I moved to Port Saint Lucie, FL in December of 2018. We enjoy learning new things, playing games, and spending time with our friends. 
+
+[Click to view my GitHub portfolio page!](https://github.com/mnmason86?tab=repositories)
+
 ![Mandy Daniel1](https://user-images.githubusercontent.com/102629678/161444418-44729468-2697-4e28-b8ca-f16a81cecfd2.jpg)
 
 
