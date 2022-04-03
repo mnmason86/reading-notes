@@ -79,5 +79,9 @@
   - [![Alt text](image location"Optional title")](URL for image site)
   
 ### Escaping Characters
-  -
+  - "Escaping characters" refers to displaying characters that are assumed to be part of the markup
+  - Use a backslash to escape a character
+  - The following may be escaped: \`*{}<>[]()#+-.!|
+  
 ### HTML
+  - Sometimes, markdown applications allow the use of HTML tags. Check your markdown application's documentation!
