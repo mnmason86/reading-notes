@@ -3,23 +3,19 @@
 ## Markdown Basic Syntax
 
 ### Headings
-
 - Headings are available in six different sizes, by utilizing the '#' symbol, with the largest using one symbol and the smallest using six.
 - *For compatibility, always put a space between the symbol and the text.*
 
 ### Paragraphs
-
 - Paragraphs are easy. You basically just type as you normally would.
 - *To avoid formatting issues, do not indent paragraphs*
 
 ### Line Breaks
-
 - To break text into separate lines, the best way is to use two or more spaces.
 - If you were taught to type sentences with two spaces at the end, use <br> instead.
 - *For compatibility, do not use a backslash*
 
 ### Emphasis
-
 #### Bold
 - To emphasize by making text **bold**, use two asterisks or two underscores on either side of the text.
 - If you need to make letters in the mi**dd**le of a word **bold**, use asterisks for compatibility.
@@ -48,6 +44,33 @@
 
 #### Unordered Lists
 - To present items in an unordered list, add items on separate lines, preceded by a dash '-', asterisk '*', or plus sign '+' 
+- These symbols are referred to as 'delimiters'.
+- *For compatibility, do not combine delimiters in a single list.*
+
 #### Adding Elements in Lists
 - Indent added elements by adding four spaces or one tab.
 - To add **code blocks**, indent eight spaces or two tabs.
+
+### Code
+- To denote a word or phrase as code, enclose it in backticks (`).
+- If your text already includes backticks, use double backticks (``)
+- To create **code blocks**, indent every line with *at least* four spaces or one tab.
+
+### Horizontal Rules
+- To create a horizontal line to separate text, use three asterisks (***), dashes (---), or underscores (___) 
+- *For compatibility, put a blank line before and after each horizontal rule*
+
+### Links
+- To create a link, enclose the text for the link in brackets [], followed by the URL in parentheses ()
+- To add a title to a link (the small box with text that shows when you hover over the text), add your title text in quotation marks after the URL, but still within the parentheses
+- To link a URL without text, or link an email address, use angle brackets (<>)
+- Links can be formatted as bold, italic, or code, just like text.
+
+#### Reference-style Links
+- This style of link, makes URLs easier to read in markdown. The first segment (which is easily readable), makes *reference* to the second segment, the longer URL, which can be embedded anywhere in the markdown.
+- First segment: [URL Reference][label]
+- Second segment: [label]: <URL> "Optional Title"
+  
+### Images
+### Escaping Characters
+### HTML
