@@ -18,16 +18,16 @@ The *shell* that is within the terminal defines how the terminal behaves and exe
 
 Important commands:
 
->pwd:  Present Working Directory
->ls:  Lists  
->cd:  Change Directory
+>**pwd**:  Present Working Directory
+>**ls**:  Lists  
+>**cd**:  Change Directory
 
 Shortcuts:
->~ :  To home directory  
->. :  To current directory  
->.. :  To parent directory  
-> Tab key :  Auto-complete, tab again to scroll through options  
-> Up/Down Arrow keys :  Scroll through recent commands
+>**~** :  To home directory  
+>**.** :  To current directory  
+>**..** :  To parent directory  
+> **Tab key** :  Auto-complete, tab again to scroll through options  
+> **Up/Down Arrow keys** :  Scroll through recent commands
 
 ## Files
 
