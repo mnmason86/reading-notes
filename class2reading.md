@@ -8,3 +8,4 @@ Text editors that are pre-installed on computers, such as Notepad, are very basi
 These text editors contain additional features such as syntax highlighting, code completion, word completion, function completion, shorthand for HTML and CSS, themes, extensions, and more. Some options for Windows include Notepad++, BB Edit, Virtual Studio Code, Atom, Brackets, and Sublime Text. 
 
 ## The Command Line
+[Linux Tutorial](https://ryanstutorials.net/linuxtutorial/commandline.php)
