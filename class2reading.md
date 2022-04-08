@@ -9,3 +9,13 @@ These text editors contain additional features such as syntax highlighting, code
 
 ## The Command Line
 [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+The *command line* is also known as *the terminal* - a text-based interface to the system.
+The *shell* that is within the terminal defines how the terminal behaves and executes commands.
+
+## Basic Navigation
+[Linux Tutorial](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+Important commands:
+
+
