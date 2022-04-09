@@ -1,4 +1,4 @@
-[<=== Back](reading-notes.md)
+[<=== Back](mnmason86.github.io/reading-notes/)
 
 # Git / GitHub and ACP
 Summarized from:
