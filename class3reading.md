@@ -1,4 +1,4 @@
-[<=== Back](reading-notes)
+[<=== Back](README.md)
 
 # Git / GitHub and ACP
 Summarized from:
