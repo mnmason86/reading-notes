@@ -37,7 +37,8 @@ ACP refers to the process of ADDING, COMMITING, and PUSHING changes from your lo
 
 - Clone file from GitHub with ***git clone (URL)***
 - Open VSC with ***code .***
-- Add changes to your file in VSC, then Ctrl+S to Save
+- **ADD** changes to your file in VSC, then Ctrl+S to Save
 - In the Terminal,  ***git add (name of file that was changed)*** 
 - Check status with ***git status***
-- Commit changes and leave a message ***git commit -m "leave an informational message here"***
+- **COMMIT** changes and leave a message ***git commit -m "leave a PUBLIC informational message here"***
+- To **PUSH** changes to live site, use ***git push origin main***
