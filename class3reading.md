@@ -15,4 +15,6 @@ To import an existing project or directory:
 - Switch to target project's directory ***cd***
 - Use ***git init*** command
 - To start tracking these files
-> ___git add *.c___   ***git add LICENSE***    ***git commit -m "add a message"***
+> ___git add *.c___   
+> ***git add LICENSE***   
+>  ***git commit -m "add a message"***
