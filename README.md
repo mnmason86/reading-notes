@@ -20,6 +20,9 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 - Accept my failures as learning opportunities
 - Focus on the big picture
 
-
+### Table of Contents
+- [Class 1 Reading](class1reading.md)
+- [Class 2 Reading](class2reading.md)
+- [Class 3 Reading](class3reading.md)
 
 
