@@ -1,3 +1,5 @@
+[<=== Back](readme.md)
+
 # The Coder's Computer
 ## Text Editors
 A text editor is a piece of software downloaded to a computer or accessed online that allows the user to write and manage text, and to create websites. Choosing the correct text editor is specific to the coder and their wants and needs. 
