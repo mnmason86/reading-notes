@@ -1,4 +1,4 @@
-[<=== Back](mnmason86.github.io/reading-notes/)
+[<=== Back](reading-notes)
 
 # The Coder's Computer
 ## Text Editors
