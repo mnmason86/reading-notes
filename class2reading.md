@@ -30,5 +30,19 @@ Shortcuts:
 > **Up/Down Arrow keys** :  Scroll through recent commands
 
 ## Files
+[Linux Tutorial](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
+Everything in Linux is a file. There are no extensions (.png, .pdf, etc.), but the **file** command can give information about what type a file is. A "path" is just a way to get to a file.
+
+Linux is *case sensitive*. Type exactly what you mean!
+
+Don't use spaces when specifying a file name - use single quotations or escape characters instead. **Tab key** will do this automatically.
+
+### Hidden Files
+
+Hidden files begin with a full stop (.)
+Files which are hidden will not appear with command **ls** alone. To view hidden files, include **-a**
+> **ls -a**  is used to view hidden files
+
+Files may be renamed with or without a full stop to hide or unhide them respectively.
 
