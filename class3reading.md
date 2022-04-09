@@ -18,3 +18,24 @@ To import an existing project or directory:
 > ___git add *.c___   
 > ***git add LICENSE***   
 >  ***git commit -m "add a message"***
+
+### Cloning
+Create a copy of a Git repository
+>***git clone(URL)***
+
+To clone into a different directory, add the name after the URL
+
+### Workflow
+The local Git repository has three components:
+>**Working Directory** ===> **Index** ===> **Head**
+- The Working Directory is where the actual files are located
+- The Index is used for staging changes
+- The Head points to the most recent commit
+
+## ACP
+ACP refers to the process of ADDING, COMMITING, and PUSHING changes from your local drive to the live project.
+
+- Open VSC with ***code .***
+- Add changes to your file in VSC, then Ctrl+S to Save
+- 
+- 
