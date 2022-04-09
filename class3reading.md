@@ -14,4 +14,5 @@ Git is a Distributed Version Control system (DVCS) which is made of of file "sna
 To import an existing project or directory:
 - Switch to target project's directory ***cd***
 - Use ***git init*** command
-- To start tracking these files ***git add *.c***   ***git add LICENSE***   ***git commit -m "add a message"***
+- To start tracking these files
+> ___git add *.c___   ***git add LICENSE***    ***git commit -m "add a message"***
