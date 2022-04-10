@@ -36,3 +36,16 @@ After receiving and utilizing feedback from testing, create your prototype, and 
 - **Be clear.** What is this page for? What can the user do here?
 - **Be confident.** Use familiar navigational processes, and place items in predictable places.
 - **Simplicity.** Attractiveness is not a consideration for a wireframe. Keep it simple!
+
+# Mozilla HTML Basics
+[Review from Code 101 - HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+# Semantics
+The term **semantics** refers to the meaning of a piece of code. What the code does, or what effect it has.
+
+In HTML, a header is a semantic element. It emphasises the text inside of the header tags to appear as a header. Any text can be made to look this way by styling, but it will not function correctly without the proper semantics. "HTML should be coded to represent the data that will be populated and not based on its default presentation styling." CSS is for presentation.
+
+### Some examples of semantic elements
+In HTML, these will be represented as tags.
+
+article, aside, details, footer, header, main, nav, section, summary, and MANY more.
