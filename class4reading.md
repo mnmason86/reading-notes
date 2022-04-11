@@ -2,20 +2,26 @@
 
 # Wireframe and Design
 Summarized from [Career Foundry](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+
 ## What is a Wireframe?
 A wireframe is a bare-bones design for what will appear on a screen before building anything with code. It is a good way to visualize how everything is laid out on a page without the distractions of styling. Wireframes can be completed digitally or physically (paper and pencil or a whiteboard). Physical wireframes are easier to change before coding is under way, and to transfer to software later.
+
 ## Examples of Wireframes
 [Wireframe Examples](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/versions/samuel-student-wireframe---x----972-715x---.png)
 
 Some good online wireframe tools: [UXPin](https://www.uxpin.com/), [InVision](http://www.invisionapp.com/), and [Wireframe.cc](https://wireframe.cc/)
 
 ## Steps to make a Wireframe
+
 #### Do your research!
 Before wireframing, understand your audience and analyze similar products
+
 #### Prepare research for quick reference
 Make a 'cheat sheet' with your requirements, and findings from your research.
+
 #### Map your user flow
 To limit your own (and your user's) frustration, map out the process of moving through information on a site.
+
 #### Draft and Sketch
 Start wireframing! This does not require fine detail, but should represent features and formats. Do not worry about aesthetics or colors, only function. Things to consider:
 - Organize content to support user goals
