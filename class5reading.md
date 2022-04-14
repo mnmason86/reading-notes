@@ -22,4 +22,26 @@ There are three ways of inserting a style sheet:
 - Internal CSS
 - Inline CSS
 
-**External CSS** allows the user to keep a separate file for styling which is referenced inside the HTML page in the head section, inside the "<link>" element.
+### External CSS
+ External CSS allows the user to keep a separate file for styling which is referenced inside the HTML page in the head section, inside the "< link >" element.
+An external style sheet can be created in any text editor, and must be saved with a .css extension.
+
+### Internal CSS
+Internal CSS is usually used if only one HTML page has a unique style. In this case, the style is defined inside the "< style >" element, inside the head section.
+
+### Inline CSS
+An inline style can be used to style a single element, and is added as an attribute to that element in the HTML page. It can contain any CSS property.
+
+#### Cascading Order
+What happens when there is more than one style specified for an HTML element?
+
+Styles will "cascade" using the following rules, from highest priority to lowest
+1. Inline style
+2. External and internal style (in head section)
+3. Browser default
+
+## Color in CSS
+Colors can be added to HTML elements in three different ways
+- The color name, if it is a fairly common color name
+- HTML color codes: [Color Picker](https://htmlcolorcodes.com/color-picker/)
+- RGB values
