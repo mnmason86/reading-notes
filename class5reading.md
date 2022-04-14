@@ -8,7 +8,7 @@
 CSS stands for "Cascading Style Sheets", and is used to style websites with such functions as font sizing and coloring, backgrounds, color and sizing of headings and links, sidebars, and animations.
 
 ### CSS Syntax
-CSS rules open with a **selector** from the HTML being styled. For example: headers, paragraphs, and images. The selector is followed by a set of curly braces "{ }". Inside the braces there are one or more **declarations**. Declarations come as a pair - a **property** and a **value**, separated by a colon followed by a space. The declaration is closed with a semicolon.
+CSS rules open with a **selector** from the HTML being styled. For example: headers, paragraphs, and images. The selector is followed by a set of curly braces `{ }`. Inside the braces there are one or more **declarations**. Declarations come as a pair - a **property** and a **value**, separated by a colon followed by a space. The declaration is closed with a semicolon.
 > h1 {
     color: red;
     font-size: 5em;
@@ -26,11 +26,11 @@ There are three ways of inserting a style sheet:
 - Inline CSS
 
 ### External CSS
- External CSS allows the user to keep a separate file for styling which is referenced inside the HTML page in the head section, inside the "< link >" element.
+ External CSS allows the user to keep a separate file for styling which is referenced inside the HTML page in the head section, inside the `<link>` element.
 An external style sheet can be created in any text editor, and must be saved with a .css extension.
 
 ### Internal CSS
-Internal CSS is usually used if only one HTML page has a unique style. In this case, the style is defined inside the "< style >" element, inside the head section.
+Internal CSS is usually used if only one HTML page has a unique style. In this case, the style is defined inside the `<style>` element, inside the head section.
 
 ### Inline CSS
 An inline style can be used to style a single element, and is added as an attribute to that element in the HTML page. It can contain any CSS property.

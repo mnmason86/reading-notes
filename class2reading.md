@@ -42,7 +42,7 @@ Don't use spaces when specifying a file name - use single quotations or escape c
 
 ### Hidden Files
 
-Hidden files begin with a full stop (.)
+Hidden files begin with a full stop `.`
 Files which are hidden will not appear with command **ls** alone. To view hidden files, include **-a**
 > **ls -a**  is used to view hidden files
 

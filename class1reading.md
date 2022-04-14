@@ -5,7 +5,7 @@
 ## Markdown Basic Syntax
 
 ### Headings
-- Headings are available in six different sizes, by utilizing the '#' symbol, with the largest using one symbol and the smallest using six.
+- Headings are available in six different sizes, by utilizing the `#` symbol, with the largest using one symbol and the smallest using six.
 - *For compatibility, always put a space between the symbol and the text.*
 
 ### Paragraphs
@@ -31,9 +31,9 @@
 - If you need to make letters in the mi***ddd***le of a word ***bold and italic***, use asterisks for compatibility.
 
 ### Blockquotes
-- To create a blockquote, add a 'greater than' > symbol in front of the text you wish to quote.
-- If your quote has multiple paragraphs, use the > symbol on the blank lines between paragraphs.
-- To nest a block quote within another block quote, use two 'greater than' symbols >>
+- To create a blockquote, add a 'greater than' `>` symbol in front of the text you wish to quote.
+- If your quote has multiple paragraphs, use the `>` symbol on the blank lines between paragraphs.
+- To nest a block quote within another block quote, use two 'greater than' symbols `>>`
 - Other elements such as headings and ordered lists can be used within a block quote
 - *For compatibility, put a blank line before and after block quotes*
 
@@ -45,7 +45,7 @@
 - *For compatibility, do not use parentheses for list items.*
 
 #### Unordered Lists
-- To present items in an unordered list, add items on separate lines, preceded by a dash '-', asterisk '*', or plus sign '+' 
+- To present items in an unordered list, add items on separate lines, preceded by a dash `-`, asterisk `*`, or plus sign `+` 
 - These symbols are referred to as 'delimiters'.
 - *For compatibility, do not combine delimiters in a single list.*
 
@@ -59,20 +59,20 @@
 - To create **code blocks**, indent every line with *at least* four spaces or one tab.
 
 ### Horizontal Rules
-- To create a horizontal line to separate text, use three asterisks (***), dashes (---), or underscores (___) 
+- To create a horizontal line to separate text, use three asterisks `***`, dashes `---`, or underscores `___` 
 - *For compatibility, put a blank line before and after each horizontal rule*
 
 ### Links
 - To create a link, enclose the text for the link in brackets [], followed by the URL in parentheses ()
 - To add a title to a link (the small box with text that shows when you hover over the text), add your title text in quotation marks after the URL, but still within the parentheses
-- To link a URL without text, or link an email address, use angle brackets (<>)
+- To link a URL without text, or link an email address, use angle brackets `<>`
 - Links can be formatted as bold, italic, or code, just like text.
 
 #### Reference-style Links
 - This style of link, makes URLs easier to read in markdown. The first segment (which is easily readable), makes *reference* to the second segment, the longer URL, which can be embedded anywhere in the markdown.
 - First segment: [URL Reference][label]
 - Second segment: [label]: <URL> "Optional Title"
-- *For compatibility, use '%20' in place of any spaces in the URL text*
+- *For compatibility, use `%20` in place of any spaces in the URL text*
   
 ### Images
   - To add an image, use an exclamation mark in parentheses, followed by alt text in brackets, then the image location in parentheses
