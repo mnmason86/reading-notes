@@ -13,6 +13,7 @@ CSS rules open with a **selector** from the HTML being styled. For example: head
     color: red;
     font-size: 5em;
 }
+
 ### CSS Modules and Specifications
 CSS has such a large variety of uses that the language is broken into *modules*. Find a list of modules [here](https://developer.mozilla.org/en-US/docs/Web/CSS).
 
