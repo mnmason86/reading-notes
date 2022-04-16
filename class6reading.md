@@ -21,8 +21,8 @@ For older browsers, the `var` option should be used. Keywords `let` and `const` 
 For general rules, use `const`. If the variable can change, use `let`.
 
 Example:
-> `const price1 = 5;`
-`const price2 = 6;`
+> `const price1 = 5;`  
+`const price2 = 6;`  
 `let total = price1 + price2;`
 
 ### JavaScript Identifiers
