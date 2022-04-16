@@ -7,8 +7,6 @@ Summarized from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Java
 
 *Java* is a very different programming language.
 
-## Input and Output in JavaScript
-
 ## JavaScript Variables
 Variables  are "containers for storing data", and are declared in four ways:
 - `var`
@@ -36,3 +34,16 @@ Some general rules for variable names:
 - Reserved words (like JavaScript keywords) cannot be used as names
 
 For more rules on variables, visit [W3Schools](https://www.w3schools.com/js/js_variables.asp)
+
+## How Computers Really Work
+All computers perform four basic functions
+- Input
+- Storage
+- Processing
+- Output
+
+Input is what we physically do with the device. The information that is given to the computer. Storage and Processing take that information, and manipulate it with algorithms, saving what is necessary and sending information to the output device(S). Output is the information we receive from the computer in the form of display, sound, movement, and more.
+
+Computers take in, process, store, and output information using thousands of small wires with 'on' and 'off' signals. These signals are interpreted as *binary*. All input information is translated by the computer into numbers, which are then represented as binary code, and processed into visual, sound, video, and movement outputs. Everthing is based on numbers!
+
+[How Computers Really Work Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
