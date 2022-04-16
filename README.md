@@ -26,5 +26,6 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 - [Class 3 Reading](class3reading.md)
 - [Class 4 Reading](class4reading.md)
 - [Class 5 Reading](class5reading.md)
+- [Class 6 Reading](class6reading.md)
 
 
