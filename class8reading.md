@@ -36,7 +36,7 @@ Summarized from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Java
 
 > A `while` statement executes its statements as long as a specified condition evaluates to `true`. A `while` statement looks as follows:
 
-`while` (condition)
+`while` (condition)  
     statement
 
 > If the `condition` becomes `false`, statement within the loop stops executing and control passes to the statement following the loop.
