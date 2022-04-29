@@ -21,6 +21,7 @@ The visual aspect of a website is produced by the browser receiving HTML and CSS
 
 ## Chapter 1: Structure
 p.12-39
+
 Structure refers to the layout of a page or document, appropriate reflecting the hierarchy of information in that page or document.
 
 HTML uses **elements** to describe the structure of web pages.
@@ -30,6 +31,19 @@ It's never a bad idea to "View Source" for a page to view the HTML!
 
 ## Chapter 8: Extra Markup
 p.176-199
+
+`<!DOCTYPE html>` is used to tell the browser which version of HTML is being used. Refer to p.181 for examples of different DOCTYPES.
+
+To add a comment that is not visible in the user's browser, wrap the text with `<!-- -->`
+
+The `id` attribute uniquely identifies that element from other elements on the page, while the `class` attribute is used to identify a set of elements as different from the rest of the page.
+
+Block level elements: `<h1>`,`<p>`,`<ul`>,`<li>`    
+Inline elements: `<a>`,`<img>`
+`<div>` elements allow a set of elements to be grouped together in one box.
+A `<span>` element "acts like an inline equivalent of the `<div>` element. 
+`<iframe>` elements are used to embed a window to another page, i.e. Google Maps.
+The `<meta>` element is contained inside the `<head>`, and contains metadata about the page.
 
 ## Chapter 17: HTML5 Layout
 p.428-451
