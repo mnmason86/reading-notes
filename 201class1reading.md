@@ -40,10 +40,10 @@ The `id` attribute uniquely identifies that element from other elements on the p
 
 Block level elements: `<h1>`,`<p>`,`<ul`>,`<li>`    
 Inline elements: `<a>`,`<img>`
-`<div>` elements allow a set of elements to be grouped together in one box.
-A `<span>` element "acts like an inline equivalent of the `<div>` element. 
-`<iframe>` elements are used to embed a window to another page, i.e. Google Maps.
-The `<meta>` element is contained inside the `<head>`, and contains metadata about the page.
+`<div>` elements allow a set of elements to be grouped together in one box.  
+A `<span>` element "acts like an inline equivalent of the `<div>` element.  
+`<iframe>` elements are used to embed a window to another page, i.e. Google Maps.  
+The `<meta>` element is contained inside the `<head>`, and contains metadata about the page.  
 
 ## Chapter 17: HTML5 Layout
 p.428-451
