@@ -41,5 +41,8 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 |                                        | [Class 15 Reading](201class15reading.md) |
 
 
+## Things I Want To Know More About
+
+
 
 

@@ -1,8 +1,7 @@
 [<=== Back](README.md)
 
-# Reading 01 Notes
 
-## Markdown Basic Syntax
+# Markdown Basic Syntax
 
 ### Headings
 - Headings are available in six different sizes, by utilizing the `#` symbol, with the largest using one symbol and the smallest using six.
