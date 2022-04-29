@@ -5,7 +5,7 @@ My name is Mandy Mason, and I am completely new to coding! I am an Elementary Sc
 
 [Click to view my GitHub portfolio page!](https://github.com/mnmason86?tab=projects&type=beta)
 
-![Mandy Daniel1](https://user-images.githubusercontent.com/102629678/161444418-44729468-2697-4e28-b8ca-f16a81cecfd2.jpg)
+![Mandy Daniel1](Daniel_Mandy2.jpg) 
 
 
 
