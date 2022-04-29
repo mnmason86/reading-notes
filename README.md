@@ -22,31 +22,24 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 
 ### Table of Contents
 
-#### Code 102 Reading Notes
-- [Class 1 Reading](102class1reading.md)
-- [Class 2 Reading](102class2reading.md)
-- [Class 3 Reading](102class3reading.md)
-- [Class 4 Reading](102class4reading.md)
-- [Class 5 Reading](102class5reading.md)
-- [Class 6 Reading](102class6reading.md)
-- [Class 7 Reading](102class7reading.md)
-- [Class 8 Reading](102class8reading.md)
+| #### Code 102 Reading Notes | #### Code 201 Reading Notes |
+| :---: | :---: |
+|[Class 1 Reading](102class1reading.md) | [Class 1 Reading](201class1reading.md) |
+| [Class 2 Reading](102class2reading.md) | [Class 2 Reading](201class2reading.md) |
+| [Class 3 Reading](102class3reading.md) | [Class 3 Reading](201class3reading.md) |
+| [Class 4 Reading](102class4reading.md) | [Class 4 Reading](201class4reading.md) |
+| [Class 5 Reading](102class5reading.md) | [Class 5 Reading](201class5reading.md) |
+| [Class 6 Reading](102class6reading.md) | [Class 6 Reading](201class6reading.md) |
+| [Class 7 Reading](102class7reading.md) | [Class 7 Reading](201class7reading.md) |
+| [Class 8 Reading](102class8reading.md) | [Class 8 Reading](201class8reading.md) |
+|                                        | [Class 9 Reading](201class9reading.md) |
+|                                        | [Class 10 Reading](201class10reading.md) |
+|                                        | [Class 11 Reading](201class11reading.md) |
+|                                        | [Class 12 Reading](201class12reading.md) |
+|                                        | [Class 13 Reading](201class13reading.md) |
+|                                        | [Class 14 Reading](201class14reading.md) |
+|                                        | [Class 15 Reading](201class15reading.md) |
 
-#### Code 201 Reading Notes
-- [Class 1 Reading](201class1reading.md)
-- [Class 2 Reading](201class2reading.md)
-- [Class 3 Reading](201class3reading.md)
-- [Class 4 Reading](201class4reading.md)
-- [Class 5 Reading](201class5reading.md)
-- [Class 6 Reading](201class6reading.md)
-- [Class 7 Reading](201class7reading.md)
-- [Class 8 Reading](201class8reading.md)
-- [Class 9 Reading](201class9reading.md)
-- [Class 10 Reading](201class10reading.md)
-- [Class 11 Reading](201class11reading.md)
-- [Class 12 Reading](201class12reading.md)
-- [Class 13 Reading](201class13reading.md)
-- [Class 14 Reading](201class14reading.md)
-- [Class 15 Reading](201class15reading.md)
+
 
 
