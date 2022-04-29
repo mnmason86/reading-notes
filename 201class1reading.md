@@ -5,10 +5,10 @@
 
 ## Introduction
 ### How People Access the Web
-Web Browsers: software which allows the user to search for information or websites.
-Web Servers: A computer which is constantly connected to the internet, and "hosts" websites, sending information out when requested.
-Devices: Desktops, laptops, tablets, phones, etc. Different devices have different screen sizes and connection speeds.
-Screen Readers: Programs that read the contents of a computer screen to the user. 
+- Web Browsers: software which allows the user to search for information or websites.
+- Web Servers: A computer which is constantly connected to the internet, and "hosts" websites, sending information out when requested.
+- Devices: Desktops, laptops, tablets, phones, etc. Different devices have different screen sizes and connection speeds.
+- Screen Readers: Programs that read the contents of a computer screen to the user. 
 
 ### How Websites Are Created
 The visual aspect of a website is produced by the browser receiving HTML and CSS from the server and interpreting it. HTML5 and CSS3 are the latest versions of these languages, and are always being built upon. Other programming languages are used on larger, more complex sites to perform functions and store data. 
