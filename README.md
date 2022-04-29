@@ -20,7 +20,7 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 - Accept my failures as learning opportunities
 - Focus on the big picture
 
-<div align="center">### Table of Contents</div>
+:-: ### Table of Contents :-:
 
 | Code 102 Reading Notes | Code 201 Reading Notes |
 | :---: | :---: |
