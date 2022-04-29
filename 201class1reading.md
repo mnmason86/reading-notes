@@ -48,8 +48,30 @@ The `<meta>` element is contained inside the `<head>`, and contains metadata abo
 ## Chapter 17: HTML5 Layout
 p.428-451
 
+Older versions of HTML used the `<div>` tag to group related elements, providing each with an `id=` to differentiate. **HTML5** utilize named elements which describe the type of content found in each, i.e. `<header>`, `<article>`, & `<footer>`.
+
+`<aside>` elements have two purposes
+- Inside an article: contains information related to the artical but not essential.
+- Outside an article: acts as a container for content that is related to the entire page.
+
+##### Linking Around Block-Level Elements
+> "HTML5 allows web page authors to place an `<a>` element around a block level element that contains child elements. This allows you to turn an entire block into a link." (p.441)
+
 ## Chapter 18: Process & Design
 p.452-475
+
+Important aspects to consider when building a site:
+- Who is the site for?
+- Why do people visit your site?
+- What are your visitors trying to achieve?
+- What information do your visitors need?
+- How often will people visit your site?
+
+After considering the above questions, create a diagram of the pages utilized within the site and how they will be organized and connected. Then, Wireframe! 
+
+Size, color, and style can help to establish a *visual hierarchy* of information. People tend to "organize visual elements into groups", which can make a design easier to comprehend.
+
+Navigation design should be concise, clear, selective, interactive, consistent, and have context.
 
 # Javascript & JQUERY by Jon Duckett
 
