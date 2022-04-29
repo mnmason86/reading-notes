@@ -22,7 +22,7 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 
 ### Table of Contents
 
-| #### Code 102 Reading Notes | #### Code 201 Reading Notes |
+| Code 102 Reading Notes | Code 201 Reading Notes |
 | :---: | :---: |
 |[Class 1 Reading](102class1reading.md) | [Class 1 Reading](201class1reading.md) |
 | [Class 2 Reading](102class2reading.md) | [Class 2 Reading](201class2reading.md) |
