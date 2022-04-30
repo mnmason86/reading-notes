@@ -77,5 +77,37 @@ Navigation design should be concise, clear, selective, interactive, consistent, 
 
 ## Introduction
 
+How JavaScript makes web pages more interactive:
+- Access Content
+- Modify Content
+- Program Rules
+- React to Events
+
 ## JS Chapter 1: The ABC of Programming
 p.11-52
+
+### A: "What is a script, and how do I create one?"
+
+> "A script is a series of instructions that a computer can follow to achieve a goal."
+
+This is much like reading a recipe, handbook, instruction manual, or a piece of music.
+
+The first step to writing a script is to identify the goal, and list tasks to complete in order to achieve that goal. Start with the 'big picture' , and break it into smaller steps.
+- Define the goal
+- Design the script
+- Code each step
+
+### B: "How Do Computers Fit In With The World Around Them?"
+
+> "Computers create models of the world using data."
+
+Computers only know what they are told, and follow rules given. **Objects**, **properties**, **events**, and **methods** need to be conveyed to the computer through rules and data. Computers do not know what physical properties objects have!
+
+> "Web browsers are programs built using objects."
+
+> " Web browsers use HTML markup to create a model of the web page. Each element creates its own node (which is kind of like and object)."
+
+### C: "How Do I Write A Script For A Web Page?"
+
+JavaScript is written in its own file and is inserted into an HTML page to tell the browser to load the file.  
+JavaScript does not alter the HTML file.
