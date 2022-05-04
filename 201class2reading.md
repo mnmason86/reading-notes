@@ -54,9 +54,3 @@ An *array* store a list of values. Ex:
 ## Chapter 4: Decisions and Loops
 p.145-162
 
-### Functions
-
-> Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function rather than repeating the same set of statements.
-
-Functions must be declared by giving the function a name, and writing the statements needed to perform the task.
-Functions must then be 'called' or 'invoked' by inserting the function name, followed by a set of parentheses.
