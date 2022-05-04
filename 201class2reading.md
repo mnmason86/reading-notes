@@ -54,3 +54,20 @@ An *array* store a list of values. Ex:
 ## Chapter 4: Decisions and Loops
 p.145-162
 
+#### Decision Making
+
+Decisions in script are places where a determination needs to be made about which script will run next. Using a flow chart will help to visualize what decisions need to be made.
+
+#### Evaluating Conditions & Conditional Statements
+
+> There are twocomponents to a decision. 1 - An expression is evaluated, which returns a value. 2. A conditional statement says what to do in a given situation.
+
+### Comparison Operators: Evaluating Conditions
+
+
+
+### Logical Operators
+
+### If Statements
+
+#### If-Else Statements
