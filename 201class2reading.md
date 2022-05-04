@@ -25,6 +25,9 @@ p.40-61
 p.226-245
 > "CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented."
 
+CSS associates style rules with HTML elements. A rule contains a *selector* and a *declaration*. Declarations have two parts: a *property* and a *value*.
+
+CSS may appear in the *head* of an HTML document, or in a separate document.
 
 # JavaScript & JQUERY by Jon Duckett
 *Summarized*
@@ -32,6 +35,28 @@ p.226-245
 ## Chapter 2: Basic JavaScript Instructions
 p.53-84
 
+> A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a **statement*.
+
+When a script needs to temporarily store a bit of information, *variables* are used.
+
+The three data types in JavaScript are **string**, **number**, and **boolean**.
+
+An *array* store a list of values. Ex: 
+
+> `var colors;`
+> `colors = ['white', 'black', 'custom'];`
+
+#### Expressions & Operators
+
+> An **expression** evaluates into a single value. 
+> Expressions rely on things called **operators**; they allow programmers to create a single value from one or more values.
 
 ## Chapter 4: Decisions and Loops
 p.145-162
+
+### Functions
+
+> Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function rather than repeating the same set of statements.
+
+Functions must be declared by giving the function a name, and writing the statements needed to perform the task.
+Functions must then be 'called' or 'invoked' by inserting the function name, followed by a set of parentheses.
