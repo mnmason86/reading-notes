@@ -64,10 +64,34 @@ Decisions in script are places where a determination needs to be made about whic
 
 ### Comparison Operators: Evaluating Conditions
 
+When a comparison operator is used, the result is rendered as *boolean* (true or false).
 
+Some comparison operators:
+- `==` Equal to
+- `!=` Not equal to
+- `>` Greater than
+- `<` Less than
+- `===` Strict equal to
+- `!==` Strict not equal to
+- `>=` Greater than or equal to
+- `<=` Less than or equal to
+
+In a comparison, the operand can be an expression containing more than one variable.
 
 ### Logical Operators
 
-### If Statements
+Allow you to compare results of more than one comparison operator.
+
+Some logical operators:
+- `&&` Logical 'and' (tests more than one condition)
+- `||` Logical 'or' (tests at least one condition)
+- `!` Logical 'not' (takes a single Boolean value and inverts it)
+
+#### If Statements
+
+**If Statements** evaluate a condition. If the statement is true, the subsequent code is executed. 
 
 #### If-Else Statements
+
+**If/Else Statements** evaluate a condition. If the statement is *true*, the first code block is executed. If the statement is *false*, the second code block is executed.
+
