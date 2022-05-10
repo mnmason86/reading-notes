@@ -45,9 +45,11 @@ Functions must be declared by giving it a name, and executed by **calling** the 
 
 Example:
 
-```function getArea(width, height){
+```
+function getArea(width, height){
   return width * height;
-}```
+}
+```
 
 When a function is called that has parameters, values should be specified in the parentheses that follow its name.
 
