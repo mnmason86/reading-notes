@@ -1,6 +1,6 @@
 [<=== Back](README.md)
 
-# JavaScript & JQUERY by Jon Duckett
+# HTML & CSS by Jon Duckett
 *Summarized*
 
 ## Chapter 5: Images
