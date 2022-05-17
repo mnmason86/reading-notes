@@ -79,3 +79,17 @@ Traversing between element nodes
 * Selects the previous or next sibling from the DOM tree.
 3. `firstChild / lastChild`
 * Select the first or last child of the current element.
+
+### Caching DOM Queries
+
+> Methods that find elements in the DOM tree are called DOM queries. When you need to work with an element more than once, you should use a variable to store the result of this query.
+
+### NodeLists: DOM Queries That Return More Than One Element
+
+> When a DOM method *can* return more than one element, it returns a NodeList - even if it only finds one matching element.
+
+> A NodeList is a collection of element nodes. Each node is given an index number, like an array.
+
+While NodeLists look like arrays and are numbered the same way, they *are not* arrays. They are a type of object called a **collection**.
+
+> When you have a NodeList, you can loop through each node in the collection and apply the same statements to each.
