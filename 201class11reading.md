@@ -23,6 +23,9 @@ To add a background image in place of a color, use `background-image`. Backgroun
 
 The gradient and contrast of background images can also be adjusted (p.419-420)
 
+# MDN Video and Audio API's
+
+[MDN Video and Audio](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
 # Chapter 19: Practical Information
 p.476-492
