@@ -17,7 +17,7 @@ The element `<canvas>` allows the user to draw 2D graphics using JavaScript, and
 
 > The 2D drawing context features methods for drawing simple 2D shapes such as paths, rectangles, and arcs. The coordinates in a 2D context begin at the upper-left of the `<canvas>` element, which is point (0,0) as shown in the following image:
 
-[JavaScript Canvas](img/JavaScript-Canvas.png)
+![JavaScript Canvas](img/JavaScript-Canvas.png)
 
 Fill and Stroke are basic operations, which use `.fillStyle` and `.strokeStyle` respectively.
 - Fill: fills in the shape with a specified style or color
