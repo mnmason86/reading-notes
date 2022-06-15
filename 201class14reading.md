@@ -191,7 +191,7 @@ First, define a CSS animation in styles.
 
 #### Additional CSS Resources
 
-[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)
-[6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV)
-[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
-[404](https://codepen.io/kieranfivestars/pen/MYdQxX)
+- [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)  
+- [6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV)  
+- [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
+- [404](https://codepen.io/kieranfivestars/pen/MYdQxX)  
