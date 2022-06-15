@@ -195,3 +195,7 @@ First, define a CSS animation in styles.
 - [6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV)  
 - [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
 - [404](https://codepen.io/kieranfivestars/pen/MYdQxX)  
+
+# What Google Learned About Teams
+
+Through Project Aristotle, Google learned that the intellectual make-up, or experience level of a team does not determine its success. What seems to matter most is that all members of the group feel comfortable, welcome, and valued. We spend so much of our time working, that when we feel like we need to 'be someone else' at work, or strictly focus on the task at hand 100% of the time, we are actually hurting our progress and productivity. Emotional comfort and openness = success!
