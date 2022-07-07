@@ -25,7 +25,7 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
   Table of Contents</h3>
 
 | Code 102 Intro to Software Development | Code 201 Foundations of Software Development | Code 301 Intermediate Software Development | Code 401 Advanced Software Development |
-
+| -------------------------------- | -------------------------------- | -------------------------------- |--------------------------------|
 |[Class 01 Reading](102/102class01reading.md)|[Class 01 Reading](201/201class01reading.md)|[Class 01 Reading](301/301class01reading.md)|[Class 01 Reading](401/401class01reading.md)|
 |[Class 02 Reading](102/102class02reading.md)|[Class 02 Reading](201/201class02reading.md)|
 |[Class 03 Reading](102/102class03reading.md)|[Class 03 Reading](201/201class03reading.md)|
