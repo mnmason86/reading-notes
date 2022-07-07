@@ -1,13 +1,11 @@
 # Reading Notes for Code Fellows
 
 ## About Me
-My name is Mandy Mason, and I am completely new to coding! I am an Elementary School Music Teacher who is looking for a career change. I was born in Nashville,TN and lived around the Middle Tennessee area for most of my life.  My husband Daniel, our cat Gizmo, and I moved to Port Saint Lucie, FL in December of 2018. We enjoy learning new things, playing games, watching sports, and spending time with our friends. 
+My name is Mandy Mason, and before I started Code Fellows, I had no coding experience! I spent the last eight years as a K-12 Music teacher, and am making a career change to the tech industry. I was born in Nashville,TN and lived around the Middle Tennessee area for most of my life.  My husband Daniel, our cat Gizmo, and I moved to Port Saint Lucie, FL in December of 2018. We enjoy learning new things, playing games, watching sports, and spending time with our friends. 
 
 [Click to view my GitHub portfolio page!](https://github.com/mnmason86?tab=projects&type=beta)
 
 ![Mandy & Daniel](img/Daniel_Mandy2.jpg) 
-
-
 
 ### What is a Growth Mindset?
 
@@ -22,23 +20,23 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 
 ### Table of Contents
 
-| Code 102 Reading Notes | Code 201 Reading Notes |
+| Code 102 Intro to Software Development | Code 201 Foundations of Software Development | Code 301 Intermediate Software Development | Code 401 Advanced Software Development
 | :---: | :---: |
-|[Class 1 Reading](102class1reading.md) | [Class 1 Reading](201class1reading.md) |
-| [Class 2 Reading](102class2reading.md) | [Class 2 Reading](201class2reading.md) |
-| [Class 3 Reading](102class3reading.md) | [Class 3 Reading](201class3reading.md) |
-| [Class 4 Reading](102class4reading.md) | [Class 4 Reading](201class4reading.md) |
-| [Class 5 Reading](102class5reading.md) | [Class 5 Reading](201class5reading.md) |
-| [Class 6 Reading](102class6reading.md) | [Class 6 Reading](201class6reading.md) |
-| [Class 7 Reading](102class7reading.md) | [Class 7 Reading](201class7reading.md) |
-| [Class 8 Reading](102class8reading.md) | [Class 8 Reading](201class8reading.md) |
-|                                        | [Class 9 Reading](201class9reading.md) |
-|                                        | [Class 10 Reading](201class10reading.md) |
-|                                        | [Class 11 Reading](201class11reading.md) |
-|                                        | [Class 12 Reading](201class12reading.md) |
-|                                        | [Class 13 Reading](201class13reading.md) |
-|                                        | [Class 14 Reading](201class14reading.md) |
-|                                        | [Class 15 Reading](201class15reading.md) |
+|[Class 01 Reading](102/102class01reading.md)  | [Class 01 Reading](201/201class01reading.md) | [Class 01 Reading](301/301class01reading.md) | 
+| [Class 02 Reading](102/102class02reading.md) | [Class 02 Reading](201/201class02reading.md) |
+| [Class 03 Reading](102/102class03reading.md) | [Class 03 Reading](201/201class03reading.md) |
+| [Class 04 Reading](102/102class04reading.md) | [Class 04 Reading](201/201class04reading.md) |
+| [Class 05 Reading](102/102class05reading.md) | [Class 05 Reading](201/201class05reading.md) |
+| [Class 06 Reading](102/102class06reading.md) | [Class 06 Reading](201/201class06reading.md) |
+| [Class 07 Reading](102/102class07reading.md) | [Class 07 Reading](201/201class07reading.md) |
+| [Class 08 Reading](102/102class08reading.md) | [Class 08 Reading](201/201class08reading.md) |
+|                                            | [Class 09 Reading](201/201class09reading.md) |
+|                                            | [Class 10 Reading](201/201class10reading.md) |
+|                                            | [Class 11 Reading](201/201class11reading.md) |
+|                                            | [Class 12 Reading](201/201class12reading.md) |
+|                                            | [Class 13 Reading](201/201class13reading.md) |
+|                                            | [Class 14 Reading](201/201class14reading.md) |
+|                                            | [Class 15 Reading](201/201class15reading.md) |
 
 
 ## Things I Want To Know More About
