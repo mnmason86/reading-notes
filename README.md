@@ -40,7 +40,7 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 |                                            |[Class 12 Reading](201/201class12reading.md)|
 |                                            |[Class 13 Reading](201/201class13reading.md)|
 |                                            |[Class 14 Reading](201/201class14reading.md)|
-|                                            |[Class 15 Reading](201/201class15reading.md)|
+|                                           
 
 
 ## Things I Want To Know More About
