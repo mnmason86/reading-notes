@@ -18,25 +18,29 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 - Accept my failures as learning opportunities
 - Focus on the big picture
 
-<h3 style="text-align: center;">Table of Contents</h3>
+<h3 style="display:block;
+           margin-left: auto;
+           margin-right:auto;
+           text-align: center;">
+  Table of Contents</h3>
 
-| Code 102 Intro to Software Development | Code 201 Foundations of Software Development | Code 301 Intermediate Software Development | Code 401 Advanced Software Development |
+|Code 102 Intro to Software Development|Code 201 Foundations of Software Development|Code 301 Intermediate Software Development|Code 401 Advanced Software Development|
 
-| [Class 01 Reading](102/102class01reading.md) | [Class 01 Reading](201/201class01reading.md) | [Class 01 Reading](301/301class01reading.md) | 
-| [Class 02 Reading](102/102class02reading.md) | [Class 02 Reading](201/201class02reading.md) |
-| [Class 03 Reading](102/102class03reading.md) | [Class 03 Reading](201/201class03reading.md) |
-| [Class 04 Reading](102/102class04reading.md) | [Class 04 Reading](201/201class04reading.md) |
-| [Class 05 Reading](102/102class05reading.md) | [Class 05 Reading](201/201class05reading.md) |
-| [Class 06 Reading](102/102class06reading.md) | [Class 06 Reading](201/201class06reading.md) |
-| [Class 07 Reading](102/102class07reading.md) | [Class 07 Reading](201/201class07reading.md) |
-| [Class 08 Reading](102/102class08reading.md) | [Class 08 Reading](201/201class08reading.md) |
-|                                              | [Class 09 Reading](201/201class09reading.md) |
-|                                              | [Class 10 Reading](201/201class10reading.md) |
-|                                              | [Class 11 Reading](201/201class11reading.md) |
-|                                              | [Class 12 Reading](201/201class12reading.md) |
-|                                              | [Class 13 Reading](201/201class13reading.md) |
-|                                              | [Class 14 Reading](201/201class14reading.md) |
-|                                              | [Class 15 Reading](201/201class15reading.md) |
+|[Class 01 Reading](102/102class01reading.md)|[Class 01 Reading](201/201class01reading.md)|[Class 01 Reading](301/301class01reading.md)| 
+|[Class 02 Reading](102/102class02reading.md)|[Class 02 Reading](201/201class02reading.md)|
+|[Class 03 Reading](102/102class03reading.md)|[Class 03 Reading](201/201class03reading.md)|
+|[Class 04 Reading](102/102class04reading.md)|[Class 04 Reading](201/201class04reading.md)|
+|[Class 05 Reading](102/102class05reading.md)|[Class 05 Reading](201/201class05reading.md)|
+|[Class 06 Reading](102/102class06reading.md)|[Class 06 Reading](201/201class06reading.md)|
+|[Class 07 Reading](102/102class07reading.md)|[Class 07 Reading](201/201class07reading.md)|
+|[Class 08 Reading](102/102class08reading.md)|[Class 08 Reading](201/201class08reading.md)|
+|                                            |[Class 09 Reading](201/201class09reading.md)|
+|                                            |[Class 10 Reading](201/201class10reading.md)|
+|                                            |[Class 11 Reading](201/201class11reading.md)|
+|                                            |[Class 12 Reading](201/201class12reading.md)|
+|                                            |[Class 13 Reading](201/201class13reading.md)|
+|                                            |[Class 14 Reading](201/201class14reading.md)|
+|                                            |[Class 15 Reading](201/201class15reading.md)|
 
 
 ## Things I Want To Know More About
