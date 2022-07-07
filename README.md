@@ -18,7 +18,7 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 - Accept my failures as learning opportunities
 - Focus on the big picture
 
-### Table of Contents
+<h3 style="text-align: center;">Table of Contents</h3>
 
 | Code 102 Intro to Software Development | Code 201 Foundations of Software Development | Code 301 Intermediate Software Development | Code 401 Advanced Software Development |
 
@@ -40,6 +40,8 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 
 
 ## Things I Want To Know More About
+
+I am always looking for ways to be more fluent with my HTML and CSS.
 
 
 
