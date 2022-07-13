@@ -71,10 +71,16 @@ animals = {dog: 'woof', cat: 'meow'}
 ## How to Pass Functions Between Components
 
 **In the video, what is the first step that the developer does to pass functions between components?**
-**In your own words, what does the increment function do?**
-**How can you pass a method from a parent component into a child component?**
-**How does the child component invoke a method that was passed to it from a parent component?**
+He creates a function called 'increment'just after the state that he is going to change - after the constructor in this case.
 
+**In your own words, what does the increment function do?**
+In this example, the `increment` function uses `map()` to loop through an existing array, and update the state of that array by adding 1 to to 'count' on whichever name was clicked. 
+
+**How can you pass a method from a parent component into a child component?**
+Methods are defined in the parent component as functions, which can be passed to child components as props.
+
+**How does the child component invoke a method that was passed to it from a parent component?**
+With `this.props.method`.
 
 #### More on Passing Functions as Props
 
