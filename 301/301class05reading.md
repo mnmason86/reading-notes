@@ -30,6 +30,15 @@ The ability to trigger changes in the underlying data - this is done with *state
 
 ## [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
+**What is a “higher-order function”?**
 
+> "Functions that operate on other functions, either by taking them as arguments or by returning them, are called *higher-order functions*.
 
+**Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?**
+
+Line two of the greaterThan function returns a boolean after evaluating whether m is greater than n (which is passed into the function as an argument).
+
+**Explain how either map or reduce operates, with regards to higher-order functions.**
+
+Array.map() is a higher-order function because it takes in an array, and a callback function that is performed for every element of the passed-in array, and returns a new array accordingly.
 
