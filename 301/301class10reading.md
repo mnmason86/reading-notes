@@ -18,7 +18,7 @@ Last In First Out
 
 **Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.**
 
-![Call Stack Example](/img/CallStack.jpg)
+![Call Stack Example](img/CallStack.jpg)
 
 **What causes a Stack Overflow?**
 
