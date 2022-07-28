@@ -14,7 +14,7 @@ Computer science professors assumed that their students had been playing with co
 
 ## Employee Breakdown of Key Technology Companies
 
-## Why Diversity Matters to Your Tech Company
+## [Why Diversity Matters to Your Tech Company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
 
 **When are diversity efforts most successful?**
 
