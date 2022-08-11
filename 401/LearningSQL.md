@@ -31,11 +31,11 @@ When specific conditions for data need to be met before the data is returned, a 
 
 WHERE clauses can also be used for string comparison and pattern matching:
 
-![WHERE Clause Comparisons](img/SQLPatterns.jpg)
+<img src="img/SQLPatterns.jpg" alt="Where Statements" width="600"/>
 
 Query results can also be filtered and arranged using the 'DISTINCT', 'ORDER BY', 'LIMIT' AND 'OFFSET' keywords.
 
-![Filter](img/FilterSQL.jpg)
+<img src="img/FilterSQL.jpg" alt="Filter" width="600"/>
 
 #### Database Normalization
 
