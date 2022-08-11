@@ -46,7 +46,7 @@ Query results can also be filtered and arranged using the 'DISTINCT', 'ORDER BY'
 
 Data from two separate tables can be combined with the JOIN clause:
 
-![Join](img/JoinSQL.jpg)
+<img src="img/JoinSQL.jpg" alt="Joining" width="600"/>
 
 ### SQL Query Practice Screenshots
 
