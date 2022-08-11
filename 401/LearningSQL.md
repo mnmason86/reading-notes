@@ -50,7 +50,7 @@ Data from two separate tables can be combined with the JOIN clause:
 
 ### SQL Query Practice Screenshots
 
-<img src="img/SQL1.jpg" alt="exercise1" width="200"/><img src="img/SQL2.jpg" alt="exercise2" width="200"/><img src="img/SQL3.jpg" alt="exercise3" width="200"/>   
-<img src="img/SQL4.jpg" alt="exercise4" width="200"/><img src="img/SQL5.jpg" alt="exercise5" width="200"/><img src="img/SQL6.jpg" alt="exercise6" width="200"/>
+<img src="img/SQL1.jpg" alt="exercise1" width="350"/><img src="img/SQL2.jpg" alt="exercise2" width="350"/><img src="img/SQL3.jpg" alt="exercise3" width="350"/>   
+<img src="img/SQL4.jpg" alt="exercise4" width="350"/><img src="img/SQL5.jpg" alt="exercise5" width="350"/><img src="img/SQL6.jpg" alt="exercise6" width="350"/>
 
 
