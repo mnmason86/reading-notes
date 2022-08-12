@@ -33,11 +33,11 @@ When specific conditions for data need to be met before the data is returned, a 
 
 WHERE clauses can also be used for string comparison and pattern matching:
 
-![WHERE Clause Comparisons](img/SQLPatterns.jpg)
+<img src="img/SQLPatterns.jpg" alt="Where Statements" width="600"/>
 
 Query results can also be filtered and arranged using the 'DISTINCT', 'ORDER BY', 'LIMIT' AND 'OFFSET' keywords.
 
-![Filter](img/FilterSQL.jpg)
+<img src="img/FilterSQL.jpg" alt="Filter" width="600"/>
 
 #### Database Normalization
 
@@ -48,12 +48,12 @@ Query results can also be filtered and arranged using the 'DISTINCT', 'ORDER BY'
 
 Data from two separate tables can be combined with the JOIN clause:
 
-![Join](img/JoinSQL.jpg)
+<img src="img/JoinSQL.jpg" alt="Joining" width="600"/>
 
 #### SQL Query Practice Screenshots
 
-<img src="img/SQL1.jpg" alt="exercise1" width="350"/><img src="img/SQL2.jpg" alt="exercise2" width="350"/><img src="img/SQL3.jpg" alt="exercise3" width="350"/>   
-<img src="img/SQL4.jpg" alt="exercise4" width="350"/><img src="img/SQL5.jpg" alt="exercise5" width="350"/><img src="img/SQL6.jpg" alt="exercise6" width="350"/>
+<img src="img/SQL1.jpg" alt="exercise1" width="300"/><img src="img/SQL2.jpg" alt="exercise2" width="300"/><img src="img/SQL3.jpg" alt="exercise3" width="300"/>   
+<img src="img/SQL4.jpg" alt="exercise4" width="300"/><img src="img/SQL5.jpg" alt="exercise5" width="300"/><img src="img/SQL6.jpg" alt="exercise6" width="300"/>
 
 ### Database Management
 
