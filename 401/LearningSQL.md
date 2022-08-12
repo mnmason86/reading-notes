@@ -8,7 +8,9 @@
 SQL stands for Structured Query Language
 > "Simply put, it's a search language for you to instruct a database about what information you'd like retrieved from it."
 
-## SQL Bolt
+## [SQL Bolt](https://sqlbolt.com/lesson/introduction)
+
+### Queries
 
 Queries to a SQL database are also known as 'SELECT' statements.
 
@@ -48,9 +50,56 @@ Data from two separate tables can be combined with the JOIN clause:
 
 ![Join](img/JoinSQL.jpg)
 
-### SQL Query Practice Screenshots
+#### SQL Query Practice Screenshots
 
 <img src="img/SQL1.jpg" alt="exercise1" width="350"/><img src="img/SQL2.jpg" alt="exercise2" width="350"/><img src="img/SQL3.jpg" alt="exercise3" width="350"/>   
 <img src="img/SQL4.jpg" alt="exercise4" width="350"/><img src="img/SQL5.jpg" alt="exercise5" width="350"/><img src="img/SQL6.jpg" alt="exercise6" width="350"/>
 
+### Database Management
 
+Rows of data can be inserted into a table by using `INSERT INTO table_name`, or into specific columns by using `INSERT INTO table_name (column, another_column)`, followed by the values to be inserted.
+
+---
+
+Rows of data may also be updated by using `UPDATE table_name SET column = value_or_expression WHERE condition;`. Excluding WHERE will update all rows!
+To avoid updating mistakes, write the constraint first, and test with a SELECT query.
+
+---
+
+Rows of data bay be deleted by using `DELETE FROM table_name WHERE condition`.
+
+New tables of data can be created by using:
+
+```
+CREATE TABLE IF NOT EXISTS newtable (
+  column DataType TableConstraint DEFAULT default_value, 
+  another_column DataType TableConstraint DEFAULT default_value,
+  ...
+);
+```
+---
+
+To add, remove, or modify columns and tables, use:
+
+```
+ALTER TABLE table_name
+ADD column DataType OptionalTableConstraint
+  DEFAULT default_value
+DROP column_to_be_deleted
+RENAME TO new_table_name;
+```
+
+*There are different methods of altering table depending on the database implementation, be sure to check documentation!*
+
+---
+
+In order to remove a table, including all of its data and metadata use:
+
+`DROP TABLE IF EXISTS table_name`
+
+*If other tables depend on the table you are deleting, you will have to either update all dependent tables or remove those tables.*
+
+#### SQL Database Management Practice Screenshots
+
+<img src="img/DBM1.jpg" alt="exercise13" width="350"/><img src="img/DBM2.jpg" alt="exercise14" width="350"/><img src="img/DBM3.jpg" alt="exercise15" width="350"/>   
+<img src="img/DBM4.jpg" alt="exercise16" width="350"/><img src="img/DBM5.jpg" alt="exercise17" width="350"/><img src="img/DBM6.jpg" alt="exercise18" width="350"/>
