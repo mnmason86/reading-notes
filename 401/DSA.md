@@ -88,7 +88,7 @@ O(n) scales linearly with respect to the amount of input - twice the data requir
   <img src="img/drop_constants.jpg" alt="drop constants" height="200"/>
 
 3. Different Inputs => Different Variables
-  <img src="img/diff_inputs.jpg" alt="different inputs" heignt="200"/>
+  <img src="img/diff_inputs.jpg" alt="different inputs" height="200"/>
 
 4. Drop Non-Dominant Terms
   <img src="img/non_dom.jpg" alt="non dominant" height="200"/>
