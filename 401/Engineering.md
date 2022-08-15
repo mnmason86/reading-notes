@@ -10,7 +10,6 @@ One of the most common mistakes in interviews is trying to start coding too earl
 
 1. Read the problem completely twice. (THE MOST IMPORTANT STEP!!)
 2. Solve the problem manually with 3 sets of sample data.
-  - 
 3. Optimize the manual steps.
 4. Write the manual steps as comments or pseudo-code.
 5. Replace the comments/pseudo-code with real code.
@@ -43,4 +42,8 @@ When people are penalized for failure, they are more likely to give up and feel 
 
 - What's the one thing I bring to this career (and a potential employer) that nobody else can?
 
+  *No one else can bring my specific set of skills and experiences to a career. I will bring all of the knowledge that I have gained from my previous career as a teacher, especially my leadership, communication, and ability to connect with people.*
+
 - What are 3 things I'll start doing to "un-stick" myself whenever I get stuck on a tough piece of code, logic, or feature?
+
+  *I will take a break and walk away from the code to refresh my mind. I will be sure that I have written out my sub-problems, and that I have a solution for them first. And I will ask another dev to look at my code to see if there is something obvious I am missing.*
