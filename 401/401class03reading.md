@@ -1,6 +1,6 @@
 [<=== Back](README.md)
 
-# More Java Fundamentals
+# Java Basics
 
 ## [Primitives vs. Objects](https://www.baeldung.com/java-primitives-vs-objects)
 *from Baeldung.com*

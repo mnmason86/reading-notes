@@ -1,6 +1,6 @@
 [<=== Back](README.md)
 
-# More Java Basics
+# Java Basics
 
 ## [A Guide to Java Loops](https://www.baeldung.com/java-loops)
 
