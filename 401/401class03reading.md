@@ -86,7 +86,7 @@ String input = "1 fish 2 fish red fish blue fish";
 ```
 output:
 
-1
-2
-red
-blue
+1   
+2   
+red   
+blue   
