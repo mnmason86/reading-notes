@@ -1,4 +1,4 @@
-[<=== Back](/README.md)
+[<=== Back](../README.md)
 
 ## React Docs - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 

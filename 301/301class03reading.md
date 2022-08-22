@@ -1,4 +1,4 @@
-[<=== Back](/README.md)
+[<=== Back](../README.md)
 
 # Passing Functions as Props
 

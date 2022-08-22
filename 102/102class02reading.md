@@ -1,4 +1,4 @@
-[<=== Back](/README.md)
+[<=== Back](../README.md)
 
 # The Coder's Computer
 ## Text Editors

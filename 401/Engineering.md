@@ -1,4 +1,4 @@
-[<=== Back](/README.md)
+[<=== Back](../README.md)
 
 [Act Like You Make $1000/hour](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
 

@@ -1,4 +1,4 @@
-[<=== Back](/README.md)
+[<=== Back](../README.md)
 
 # HTML & CSS by Jon Duckett
 *Summarized*
