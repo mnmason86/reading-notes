@@ -1,4 +1,4 @@
-[<=== Back](README.md)
+[<=== Back](/README.md)
 
 # JavaScript & JQUERY by Jon Duckett
 *Summarized*

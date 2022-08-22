@@ -1,4 +1,4 @@
-[<=== Back](README.md)
+[<=== Back](/README.md)
 
 # JavaScript
 Summarized from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

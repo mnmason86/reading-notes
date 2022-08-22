@@ -26,11 +26,11 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 
 | Code 102 Intro to Software Development | Code 201 Foundations of Software Development | Code 301 Intermediate Software Development | Code 401 Advanced Software Development |
 | :--------------------------------: | :--------------------------------: | :--------------------------------: | :--------------------------------: |
-|[Class 01 Reading](102/102class01reading.md)|[Class 01 Reading](201/201class01reading.md)|[Class 01 Reading](301/301class01reading.md)|[Growth Mindset](GrowthMindset.md)|   
-|[Class 02 Reading](102/102class02reading.md)|[Class 02 Reading](201/201class02reading.md)|[Class 02 Reading](301/301class02reading.md)|[Learning SQL](LearningSQL.md)|   
-|[Class 03 Reading](102/102class03reading.md)|[Class 03 Reading](201/201class03reading.md)|[Class 03 Reading](301/301class03reading.md)|[The Command Line](CommandLine.md)|
-|[Class 04 Reading](102/102class04reading.md)|[Class 04 Reading](201/201class04reading.md)|[Class 04 Reading](301/301class04reading.md)|[Data Structures and Algorithms](DSA.md)|
-|[Class 05 Reading](102/102class05reading.md)|[Class 05 Reading](201/201class05reading.md)|[Class 05 Reading](301/301class05reading.md)|[Engineering](Engineering.md)|
+|[Class 01 Reading](102/102class01reading.md)|[Class 01 Reading](201/201class01reading.md)|[Class 01 Reading](301/301class01reading.md)|[Growth Mindset](401/GrowthMindset.md)|   
+|[Class 02 Reading](102/102class02reading.md)|[Class 02 Reading](201/201class02reading.md)|[Class 02 Reading](301/301class02reading.md)|[Learning SQL](401/LearningSQL.md)|   
+|[Class 03 Reading](102/102class03reading.md)|[Class 03 Reading](201/201class03reading.md)|[Class 03 Reading](301/301class03reading.md)|[The Command Line](401/CommandLine.md)|
+|[Class 04 Reading](102/102class04reading.md)|[Class 04 Reading](201/201class04reading.md)|[Class 04 Reading](301/301class04reading.md)|[Data Structures and Algorithms](401/DSA.md)|
+|[Class 05 Reading](102/102class05reading.md)|[Class 05 Reading](201/201class05reading.md)|[Class 05 Reading](301/301class05reading.md)|[Engineering](401/Engineering.md)|
 |[Class 06 Reading](102/102class06reading.md)|[Class 06 Reading](201/201class06reading.md)|[Class 06 Reading](301/301class06reading.md)|[Class 01 Reading](401/401class01reading.md)|
 |[Class 07 Reading](102/102class07reading.md)|[Class 07 Reading](201/201class07reading.md)|[Class 07 Reading](301/301class07reading.md)|[Class 02 Reading](401/401class02reading.md)|
 |[Class 08 Reading](102/102class08reading.md)|[Class 08 Reading](201/201class08reading.md)|[Class 08 Reading](301/301class08reading.md)|[Class 03 Reading](401/401class03reading.md)|

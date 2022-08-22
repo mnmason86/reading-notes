@@ -1,4 +1,4 @@
-[<=== Back](README.md)
+[<=== Back](/README.md)
 
 # [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
