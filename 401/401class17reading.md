@@ -1,6 +1,6 @@
 [<=== Back](../README.md)
 
-#Spring Boot and OAuth2
+# Spring Boot and OAuth2
 
 #### Steps to write a Client Application
 With access token from GitHub
