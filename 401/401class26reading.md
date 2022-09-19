@@ -23,11 +23,13 @@ Each component is an entry point through which the system or a user can enter th
 
 Four types of app components:
 
-1. Activities
+1. **Activities**
+
   - The entry point for interacting with the user. Represents a single screen with a user interface.
   - Implemented as a subclass of the `Activity` class.
 
-2. Services
+2. **Services**
+
   - A general-purpose entry point for keeping an app running in the background for all kinds of reasons. Does not provide a user interface.
   - Started Services and Bound Services
     - ***Started Services***
@@ -37,13 +39,15 @@ Four types of app components:
       - Basically, the service providing an API to another process.
   - Implemented as a subclass of the `Service` class.
 
-3. Broadcast receivers
+3. **Broadcast receivers**
+
   - A component that enables the system to deliver events to the app outside of a regular user flow, allowing the app to respond to system-wide broadcase announcements. 
   - Many broadcasts originate from the system, but apps can also initiate broadcasts
   - Don't display a user interface, but may create a status bar notification
   - Implemented as a subclass of the `BroadcastReceiver` class, and delivered as an `Intent`
 
-4. Content providers
+4. **Content providers**
+
   - Manages a shared set of app data that you can store in the file system, in a SQLite database, on the web, or on any other persistent storage location that the app can access.
   - To the system, a content provider is an entry point into an app for publishing named data items, identified by a URI scheme.
   - Useful for reading and writing data that is private to the app and not shared
