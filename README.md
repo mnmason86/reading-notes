@@ -47,11 +47,13 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 |                                            |                                            |                                            |[Class 14 Reading](401/401class14reading.md)|
 |                                            |                                            |                                            |[Class 15 Reading](401/401class15reading.md)|                                      
 |                                            |                                            |                                            |[Class 16 Reading](401/401class16reading.md)|
+|                                            |                                            |                                            |[Class 17 Reading](401/401class17reading.md)|
+|                                            |                                            |                                            |[Class 18 Reading](401/401class18reading.md)|
+|                                            |                                            |                                            |[Class 26 Reading](401/401class26reading.md)|
+
+
 ## Things I Want To Know More About
 
-I am always looking for ways to be more fluent with my HTML and CSS.
-
-To read more about REST and Roy Fielding's research
 
 
 
