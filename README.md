@@ -50,6 +50,8 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 |                                            |                                            |                                            |[Class 17 Reading](401/401class17reading.md)|
 |                                            |                                            |                                            |[Class 18 Reading](401/401class18reading.md)|
 |                                            |                                            |                                            |[Class 26 Reading](401/401class26reading.md)|
+|                                            |                                            |                                            |[Class 27 Reading](401/401class27reading.md)|
+|                                            |                                            |                                            |[Class 28 Reading](401/401class28reading.md)|
 
 
 ## Things I Want To Know More About
