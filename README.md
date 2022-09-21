@@ -3,7 +3,7 @@
 ## About Me
 My name is Mandy Mason, and before I started Code Fellows, I had no coding experience! I spent the last eight years as a K-12 Music teacher, and am making a career change to the tech industry. I was born in Nashville,TN and lived around the Middle Tennessee area for most of my life.  My husband Daniel, our cat Gizmo, and I moved to Port Saint Lucie, FL in December of 2018. We enjoy learning new things, playing games, watching sports, and spending time with our friends. 
 
-[Click to view my GitHub portfolio page!](https://github.com/mnmason86?tab=projects&type=beta)
+<p align="center">[Click to view my GitHub portfolio page!](https://github.com/mnmason86?tab=projects&type=beta)</p>
 
 ![Mandy & Daniel](img/Daniel_Mandy2.jpg) 
 
