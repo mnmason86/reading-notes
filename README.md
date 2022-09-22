@@ -3,7 +3,7 @@
 ## About Me
 My name is Mandy Mason, and before I started Code Fellows, I had no coding experience! I spent the last eight years as a K-12 Music teacher, and am making a career change to the tech industry. I was born in Nashville,TN and lived around the Middle Tennessee area for most of my life.  My husband Daniel, our cat Gizmo, and I moved to Port Saint Lucie, FL in December of 2018. We enjoy learning new things, playing games, watching sports, and spending time with our friends. 
 
-[Click to view my GitHub portfolio page!](https://github.com/mnmason86?tab=projects&type=beta)
+<a align="center">[Click to view my GitHub portfolio page!](https://github.com/mnmason86?tab=projects&type=beta)</a>
 
 ![Mandy & Daniel](img/Daniel_Mandy2.jpg) 
 
@@ -18,10 +18,7 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 - Accept my failures as learning opportunities
 - Focus on the big picture
 
-<h3 style="display:block;
-           margin-left: auto;
-           margin-right:auto;
-           text-align: center;">
+<h3 align="center">
   Table of Contents</h3>
 
 | Code 102 Intro to Software Development | Code 201 Foundations of Software Development | Code 301 Intermediate Software Development | Code 401 Advanced Software Development - First Half | Code 401 Advanced Software Development - Second Half |
