@@ -17,7 +17,7 @@
 
 - Data access objects (DAOs) that provide methods that your app can use to query, update, insert, and delete data in the database.
 
-<img src="img/room_architecture" alt="room components" width="300"/>
+<img src="img/room_architecture.png" alt="room components" height="300"/>
 
 
 ## [Defining data using Room entities](https://developer.android.com/training/data-storage/room/defining-data)
