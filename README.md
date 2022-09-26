@@ -31,8 +31,8 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 |[Class 06 Reading](102/102class06reading.md)|[Class 06 Reading](201/201class06reading.md)|[Class 06 Reading](301/301class06reading.md)|[Class 01 Reading](401/401class01reading.md)|[Class 26 Reading](401/401class26reading.md)|
 |[Class 07 Reading](102/102class07reading.md)|[Class 07 Reading](201/201class07reading.md)|[Class 07 Reading](301/301class07reading.md)|[Class 02 Reading](401/401class02reading.md)|[Class 27 Reading](401/401class27reading.md)|
 |[Class 08 Reading](102/102class08reading.md)|[Class 08 Reading](201/201class08reading.md)|[Class 08 Reading](301/301class08reading.md)|[Class 03 Reading](401/401class03reading.md)|[Class 28 Reading](401/401class28reading.md)|
-|                                            |[Class 09 Reading](201/201class09reading.md)|[Class 09 Reading](301/301class09reading.md)|[Class 04 Reading](401/401class04reading.md)|
-|                                            |[Class 10 Reading](201/201class10reading.md)|[Class 10 Reading](301/301class10reading.md)|[Class 05 Reading](401/401class05reading.md)|
+|                                            |[Class 09 Reading](201/201class09reading.md)|[Class 09 Reading](301/301class09reading.md)|[Class 04 Reading](401/401class04reading.md)|[Class 29 Reading](401/401class29reading.md)|
+|                                            |[Class 10 Reading](201/201class10reading.md)|[Class 10 Reading](301/301class10reading.md)|[Class 05 Reading](401/401class05reading.md)|[Class 31 Reading](401/401class31reading.md)|
 |                                            |[Class 11 Reading](201/201class11reading.md)|[Class 11 Reading](301/301class11reading.md)|[Class 06 Reading](401/401class06reading.md)|
 |                                            |[Class 12 Reading](201/201class12reading.md)|[Class 12 Reading](301/301class12reading.md)|[Class 07 Reading](401/401class07reading.md)|
 |                                            |[Class 13 Reading](201/201class13reading.md)|[Class 13 Reading](301/301class13reading.md)|[Class 08 Reading](401/401class08reading.md)|
