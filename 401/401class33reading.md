@@ -1,15 +1,5 @@
 [<=== Back](../README.md)
 
-**Questions**
-
-**Describe asynchronous actions in your own words**
-
-Asynchronous actions are actions that are performed after some other event takes place. The asynchronous method waits to execute the callback method until a response is returned.
-
-**What is the benefit of asynchronous methods**
-
-Asynchronous actions allow your app to run more smoothly and be more responsive. Other work can be completed while waiting on the result of a running task (in the async method)
-
 # Amplify
 
 ## [Has Many relationship](https://docs.amplify.aws/cli/graphql/data-modeling/#has-many-relationship)
@@ -81,3 +71,13 @@ Future<String> completableFuture =
 String result = completableFuture.get();
 assertEquals("Hello", result);
 ```
+
+**Questions**
+
+**Describe asynchronous actions in your own words**
+
+Asynchronous actions are actions that are performed after some other event takes place. The asynchronous method waits to execute the callback method until a response is returned.
+
+**What is the benefit of asynchronous methods**
+
+Asynchronous actions allow your app to run more smoothly and be more responsive. Other work can be completed while waiting on the result of a running task (in the async method)
