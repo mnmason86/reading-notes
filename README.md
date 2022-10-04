@@ -38,7 +38,7 @@ When I read about growth mindset, I start out by thinking "That's me! I do those
 |                                            |[Class 13 Reading](201/201class13reading.md)|[Class 13 Reading](301/301class13reading.md)|[Class 08 Reading](401/401class08reading.md)|[Class 34 Reading](401/401class34reading.md)|
 |                                            |[Class 14 Reading](201/201class14reading.md)|[Class 14 Reading](301/301class14reading.md)|[Class 09 Reading](401/401class09reading.md)|[Class 35 Reading](401/401class35reading.md)|
 |                                            |                                            |[Class 15 Reading](301/301class15reading.md)|[Class 10 Reading](401/401class10reading.md)|[Class 36 Reading](401/401class36reading.md)| 
-|                                            |                                            |                                            |[Class 11 Reading](401/401class11reading.md)|
+|                                            |                                            |                                            |[Class 11 Reading](401/401class11reading.md)|[Class 37 Reading](401/401class37reading.md)| 
 |                                            |                                            |                                            |[Class 12 Reading](401/401class12reading.md)|
 |                                            |                                            |                                            |[Class 13 Reading](401/401class13reading.md)|
 |                                            |                                            |                                            |[Class 14 Reading](401/401class14reading.md)|
